@@ -23,8 +23,4 @@ homework 是大家提交的作业的目录
 4. 浏览homework目录下的其他文件，可以针对感兴趣的内容进行修改
 5. 向oscu发起pull request
 
-GY4学生名单
-========
-Renoshen  沈宽
-
 
