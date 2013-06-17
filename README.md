@@ -50,4 +50,3 @@ homework 是大家提交的作业的目录
 提交完成以后，我们需要把我们的修改合并到[OpenSource-13-06](https://github.com/oscu/OpenSource-13-06)中，打开你自己的OpenSource-13-06项目克隆，地址是 https://github.com/XXXXXX/OpenSource-13-06，点击上的**Pull Request**按钮，然后填写一些提交的信息，完成
 
 
-
