@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 GY3学生名录
 ========
 Renoshen  沈宽
@@ -24,3 +25,4 @@ nick0314221 樊文昌
 andyzhshg 张士广
 yangzhen-07 杨振 
 petercheung 张浩
+akbarken 袁旺红
